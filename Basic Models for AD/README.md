@@ -5,6 +5,7 @@
 2nd: Detecting anomalies just by Visualization
 
 3rd: Clustering based approach for anomaly detection
+
     k-means clustering is a method of vector quantization (vq), originally from 
     signal processing, that aims to partition n observations into k clusters 
     in which each observation belongs to the cluster with the nearest mean 
@@ -12,6 +13,7 @@
     cluster.
     
 4th: Anomaly detection as a classification problem
+
     Proximity-based anomaly detection (by use of  k-NN classification method): 
         The basic idea here is that the proximity of an anomaly data point to 
         its nearest neighboring data points largely deviates from the proximity 
