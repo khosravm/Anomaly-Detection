@@ -6,7 +6,7 @@
 
 3rd: Clustering based approach for anomaly detection
 
-    k-means clustering is a method of vector quantization (vq), originally from 
+    <p align="justify"> k-means clustering is a method of vector quantization (vq), originally from 
     signal processing, that aims to partition n observations into k clusters 
     in which each observation belongs to the cluster with the nearest mean 
     (cluster centers or cluster centroid), serving as a prototype of the 
@@ -14,10 +14,10 @@
     
 4th: Anomaly detection as a classification problem
 
-    Proximity-based anomaly detection (by use of  k-NN classification method): 
-        The basic idea here is that the proximity of an anomaly data point to 
-        its nearest neighboring data points largely deviates from the proximity 
-        of the data point to most of the other data points in the data set.
+    <p align="justify"> Proximity-based anomaly detection (by use of  k-NN classification method): 
+    The basic idea here is that the proximity of an anomaly data point to 
+    its nearest neighboring data points largely deviates from the proximity 
+    of the data point to most of the other data points in the data set.
 
 <p align="justify"> While detecting anomalies, we almost always consider ROC and Precision as it 
 gives a much better idea about the model's performance. 
