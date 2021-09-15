@@ -17,7 +17,7 @@
         its nearest neighboring data points largely deviates from the proximity 
         of the data point to most of the other data points in the data set.
 
-<p style='text-align: justify;'> While detecting anomalies, we almost always consider ROC and Precision as it 
+<p align="justify"> While detecting anomalies, we almost always consider ROC and Precision as it 
 gives a much better idea about the model's performance. 
 An ROC curve (receiver operating characteristic curve) is a graph showing the 
 performance of a classification model at all classification thresholds. This 
