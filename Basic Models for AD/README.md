@@ -17,7 +17,7 @@
         its nearest neighboring data points largely deviates from the proximity 
         of the data point to most of the other data points in the data set.
 
-While detecting anomalies, we almost always consider ROC and Precision as it 
+<p style='text-align: justify;'> While detecting anomalies, we almost always consider ROC and Precision as it 
 gives a much better idea about the model's performance. 
 An ROC curve (receiver operating characteristic curve) is a graph showing the 
 performance of a classification model at all classification thresholds. This 
@@ -25,7 +25,7 @@ curve plots two parameters: True Positive Rate. False Positive Rate.
 Infact, The ROC curve shows the trade-off between sensitivity (or TPR) and 
 specificity (1 – FPR). Classifiers that give curves closer to the top-left 
 corner indicate a better performance. ... The closer the curve comes to the 
-45-degree diagonal of the ROC space, the less accurate the test.
+45-degree diagonal of the ROC space, the less accurate the test. </p>
 
 Precision talks about how precise/accurate your model is out of those predicted 
 positive, how many of them are actual positive. Precision is a good measure to 
