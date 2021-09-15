@@ -10,14 +10,14 @@
     signal processing, that aims to partition n observations into k clusters 
     in which each observation belongs to the cluster with the nearest mean 
     (cluster centers or cluster centroid), serving as a prototype of the 
-    cluster.
+    cluster. </p>
     
 4th: Anomaly detection as a classification problem
 
     <p align="justify"> Proximity-based anomaly detection (by use of  k-NN classification method): 
     The basic idea here is that the proximity of an anomaly data point to 
     its nearest neighboring data points largely deviates from the proximity 
-    of the data point to most of the other data points in the data set.
+    of the data point to most of the other data points in the data set. </p>
 
 <p align="justify"> While detecting anomalies, we almost always consider ROC and Precision as it 
 gives a much better idea about the model's performance. 
