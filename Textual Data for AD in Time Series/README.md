@@ -1,0 +1,3 @@
+Time series are present everywhere in the world since they are used to measure various phenomena (e.g., temperature, spread of a virus, sales, etc.). Forecasting of time series is highly essential and advantageous for better decision makings. However, using only the historical values of the time series is often insufficient.
+
+Besides, texts often contain useful information that can potentially help predict future values of many time series variables. For example, sentiment in social media about some major events may be relevant for predicting the change of next day’s stock market. So, we can construct effective additional features based on related text data for time series forecasting.
