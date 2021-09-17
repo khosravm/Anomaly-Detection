@@ -10,6 +10,12 @@ A case study of anomaly detection in Python
     in which each observation belongs to the cluster with the nearest mean 
     (cluster centers or cluster centroid), serving as a prototype of the 
     cluster.
+    This method looks at the data points in the set and groups those that are 
+    similar (e.g. through Euclidean distance) into a predefined number K of 
+    clusters. A threshold value can be added to detect anomalies: if the 
+    distance between a data point and its nearest centroid is greater than
+    the threshold value, then it is an anomaly. 
+    
 - 4th: Anomaly detection as a classification problem
     Proximity-based anomaly detection (by use of  k-NN classification method): 
         The basic idea here is that the proximity of an anomaly data point to 
